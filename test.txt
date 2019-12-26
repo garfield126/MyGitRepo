@@ -1,1 +1,3 @@
 git is system
+git is perfect
+git is free
